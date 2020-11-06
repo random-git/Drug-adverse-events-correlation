@@ -1,2 +1,6 @@
 # HPV vaccine-adverse-events-correlation
-part of the analyses of paper "Investigating safety profiles of human papillomavirus vaccine across group differences using VAERS data and MedDRA."
+Code of correlation analyses for "Investigating safety profiles of human papillomavirus vaccine across group differences using VAERS data and MedDRA."
+
+The analyses were aimed to understand the cooccurrence pattern of adverse events related to HPV vacines.
+
+
